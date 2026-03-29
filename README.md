@@ -49,4 +49,3 @@ Docker Hub page:
 
 [https://hub.docker.com/r/antoha2005/js-fastify-blog](https://hub.docker.com/r/antoha2005/js-fastify-blog)
 
-Last CI trigger update: 2026-03-30
