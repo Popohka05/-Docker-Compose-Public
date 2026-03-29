@@ -49,5 +49,5 @@ Docker Hub page:
 
 [https://hub.docker.com/r/antoha2005/antoha2005](https://hub.docker.com/r/antoha2005/antoha2005)
 
-CI retrigger marker: 2026-03-30 01:35 MSK
+CI retrigger marker: 2026-03-30 01:41 MSK
 
