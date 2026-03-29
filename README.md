@@ -42,11 +42,11 @@ Add these repository secrets before publishing to Docker Hub:
 Published image name:
 
 ```text
-antoha2005/js-fastify-blog
+antoha2005/antoha2005
 ```
 
 Docker Hub page:
 
-[https://hub.docker.com/r/antoha2005/js-fastify-blog](https://hub.docker.com/r/antoha2005/js-fastify-blog)
+[https://hub.docker.com/r/antoha2005/antoha2005](https://hub.docker.com/r/antoha2005/antoha2005)
 
 Last CI trigger update: 2026-03-30

@@ -42,4 +42,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/js-fastify-blog:latest
+          tags: antoha2005/antoha2005:latest
